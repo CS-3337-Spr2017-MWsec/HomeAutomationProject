@@ -7,7 +7,7 @@ A program for our class in which we will imitating a security system of a home i
 
 
 
-Features:
+# Features:
 
 -Home security camera concept-
 
@@ -23,7 +23,7 @@ When user signs in they will have the option to lock or unlock front door by the
  
 An additional option is the user opening door with a lock key. We will have two cards one that opens door on that does not , and when the wrong key is used to open door , alarm system will be activated, and voice will say “ intruder, alarming authorities”.
 
-Design:
+Design:# #  
 
 -Appearance- 
 
