@@ -27,5 +27,5 @@ Design:
 
 -Appearance- 
 
-The application will open with a login screen in which will force the user to log in. From there he will have a cartoon diagram of the house using java fx, where parts of the house will light up when they are being used such as lights, cameras, and front door. The user will be able to press a piece of the house and perform a function such as turn off light, look at camera view, and lock front door. 
+The application will open with a login screen in which will force the user to log in. From there he will have a cartoon diagram of the house using JavaFX, where parts of the house will light up when they are being used such as lights, cameras, and front door. The user will be able to press a piece of the house and perform a function such as turn off light, look at camera view, and lock front door. 
 
