@@ -7,21 +7,25 @@ A program for our class in which we will imitating a security system of a home i
 
 
 
-Features
--Home security camera concept: 
+Features:
+
+-Home security camera concept-
+
 Two laptops will be shown by webcams across classroom, these. This will be demonstrated on application once user signs in from login in screen.
 
--on/off basic light control: 
+-on/off basic light control-
+
 When user signs in they will have an option to turn on and off the porch light when user presses the button an audio will play saying “light on/ lights off. This will be demonstrated by a member's laptop brightness going up or down. 
 
--opening/locking door: 
+-opening/locking door- 
 
 When user signs in they will have the option to lock or unlock front door by the press of a button, when it is pressed an audio will play saying “door open/ door locked” the door on fx animation will light up.  For the card scan demonstration we will scan a correct card and an unrecognized card. The proper card will have the system ask user to say “hello” if voice is recognized the door will open if not the door will remain locked, ask user to scan again. 
  
 An additional option is the user opening door with a lock key. We will have two cards one that opens door on that does not , and when the wrong key is used to open door , alarm system will be activated, and voice will say “ intruder, alarming authorities”.
 
 Design:
--Appearance: 
+
+-Appearance- 
 
 The application will open with a login screen in which will force the user to log in. From there he will have a cartoon diagram of the house using java fx, where parts of the house will light up when they are being used such as lights, cameras, and front door. The user will be able to press a piece of the house and perform a function such as turn off light, look at camera view, and lock front door. 
 
