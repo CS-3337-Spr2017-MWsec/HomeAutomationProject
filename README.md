@@ -1,7 +1,6 @@
 # Title HomeAutomationProject
 
 
-![alt tag](http://i3.kym-cdn.com/photos/images/newsfeed/000/620/912/67c.jpg)
 
 # HOME AUTOMATION Project for cs 3337 Software engineering.
 
