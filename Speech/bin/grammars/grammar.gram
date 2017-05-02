@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+
+
+public <trolling> = (fuck you gabriel | password | lights on | lights off | lock doors | open doors| camera | lights | doors );
